@@ -1,2 +1,2 @@
 # 2DSwimmingFish
-This is a clone game made for learning purposes.
+A clone of a mobile game we made for learning purposes.
